@@ -1,3 +1,3 @@
 # learningGithub001
 
-i just took a humongous shit
+okay i think i got the general gist of git 
